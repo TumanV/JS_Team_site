@@ -1,0 +1,19 @@
+.home__row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.home__card {
+    width: calc(33.33% - 12px);
+    padding: 0;
+    border: 1px solid transparent !important;
+    background: #f5f5f5;
+}
+
+.home__card-img {
+    border-radius: .50rem .50rem 0 0;
+}
+
+.placeholder {
+    color: black;
+}
