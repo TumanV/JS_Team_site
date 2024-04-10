@@ -31,7 +31,7 @@ export default class About extends Component {
                             <Tab.Content className="mt-5">
                                 <Tab.Pane eventKey="first">
                                     <img
-                                        src="https://media.istockphoto.com/photos/website-creative-plan-development-with-drawn-sketch-in-the-design-picture-id1221435509" height="500" width="900"/>
+                                        src="https://images.pexels.com/photos/1209843/pexels-photo-1209843.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height="500" width="900"/>
                                     <p>
                                         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                         incididunt
