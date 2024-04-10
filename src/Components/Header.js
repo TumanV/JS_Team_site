@@ -15,9 +15,9 @@ export default class Header extends Component {
             <Navbar.Brand href="/">
               <img
                 src={logo}
-                height="30"
-                width="30"
-                className="d-inline-block align-top"
+                height="35"
+                width="35"
+                className="d-inline-block align-center"
                 alt="Logo"
               /> Learn with Javascript
             </Navbar.Brand>
